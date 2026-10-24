@@ -1,0 +1,19 @@
+{
+  "project_name": "MarginBuu",
+  "sensor_controller": {
+    "wifi_ssid": "YOUR_WIFI_NAME",
+    "wifi_password": "YOUR_WIFI_PASSWORD",
+    "warning_distance_cm": 120,
+    "critical_distance_cm": 55,
+    "status_path": "/status"
+  },
+  "camera": {
+    "board": "AI Thinker ESP32-CAM",
+    "capture_path": "/capture"
+  },
+  "android": {
+    "sensor_base_url_example": "http://192.168.1.50",
+    "camera_capture_url_example": "http://192.168.1.51/capture"
+  },
+  "note": "Example only. Do not commit real Wi-Fi credentials to a public repository."
+}

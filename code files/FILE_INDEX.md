@@ -1,0 +1,22 @@
+# File Index
+
+- `.gitignore`
+- `README.md`
+- `android/app/build.gradle.kts`
+- `android/app/src/main/AndroidManifest.xml`
+- `android/app/src/main/java/com/example/marginbuu/MainActivity.kt`
+- `android/build.gradle.kts`
+- `android/gradle.properties`
+- `android/settings.gradle.kts`
+- `config/project_config.example.json`
+- `docs/ARCHITECTURE.md`
+- `docs/DEMO_SCRIPT.md`
+- `docs/GITHUB_DESCRIPTION.txt`
+- `docs/PROJECT_REPORT.md`
+- `docs/ROADMAP.md`
+- `docs/SAFETY_AND_LIMITATIONS.md`
+- `docs/SETUP.md`
+- `docs/TEST_PLAN.md`
+- `docs/WIRING.md`
+- `firmware/esp32_cam/esp32_cam.ino`
+- `firmware/sensor_controller/sensor_controller.ino`

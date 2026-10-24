@@ -1,0 +1,1 @@
+MarginBuu is a shoulder-mounted assistive robot prototype using ultrasonic sensing, vibration feedback, ESP32-CAM snapshots, and Android voice guidance.

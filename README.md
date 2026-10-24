@@ -1,0 +1,2 @@
+# Margin-Buu-AI-Assistive-Navigation-System-for-the-Visually-Impaired
+Developed an AI-powered wearable assistive system using ESP32-CAM, ESP8266, ultrasonic sensors, and a mobile application. Implemented real-time obstacle detection, object recognition, voice guidance, text reading, and multilingual translation. Designed intelligent path guidance with vibration feedback and AI-based environmental awareness. 
